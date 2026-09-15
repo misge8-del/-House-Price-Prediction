@@ -49,7 +49,7 @@ The project covers the complete machine learning workflow:
 * [28. Requirements](#28-requirements)
 * [29. Limitations](#29-limitations)
 * [30. Future Improvements](#30-future-improvements)
-* [31. Reproducibility](#32-reproducibility)
+* [31. Reproducibility](#31-reproducibility)  
 * [32. Conclusion](#32-conclusion)
 * [33. Author](#33-Author)
 
