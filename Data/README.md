@@ -2,7 +2,7 @@
 
 ### Advanced Regression Techniques with Machine Learning
 
-An end-to-end machine learning regression project for predicting residential house sale prices using the **Ames Housing Dataset** from the Kaggle House Prices: Advanced Regression Techniques competition.
+An end-to-end machine learning regression project for predicting residential house sale prices using the **Ames Housing Datasets** from the Kaggle House Prices: Advanced Regression Techniques competition.
 
 The project covers the complete machine learning workflow:
 
