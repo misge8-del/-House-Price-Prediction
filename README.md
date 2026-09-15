@@ -46,8 +46,9 @@ The project covers the complete machine learning workflow:
 * [25. Key Findings](#25-key-findings)
 * [26. Project Structure](#26-project-structure)
 * [27. How to Run](#27-how-to-run)
-* [28. Limitations](#28-limitations)
-* [29. Future Improvements](#29-future-improvements)
+* [28. Requirements](#28-requirements)
+* [29. Limitations](#29-limitations)
+* [30. Future Improvements](#30-future-improvements)
 * [Conclusion](#-conclusion)
 * [Author](#-Author)
 
