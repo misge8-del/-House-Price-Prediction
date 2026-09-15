@@ -1,0 +1,14 @@
+# Core Data Science
+numpy==2.2.6
+pandas==2.3.2
+
+# Data Visualization
+matplotlib==3.10.6
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.7.1
+xgboost==3.0.4
+
+# Model Persistence
+joblib==1.5.1
