@@ -49,8 +49,9 @@ The project covers the complete machine learning workflow:
 * [28. Requirements](#28-requirements)
 * [29. Limitations](#29-limitations)
 * [30. Future Improvements](#30-future-improvements)
+* [31. Reproducibility](#32-reproducibility)
 * [32. Conclusion](#32-conclusion)
-* [Author](#-Author)
+* [33. Author](#33-Author)
 
 ---
 
@@ -1535,7 +1536,7 @@ also helps make the modeling workflow more systematic and reproducible.
 
 ---
 
-# 🧠 Machine Learning Concepts Demonstrated
+## 🧠 Machine Learning Concepts Demonstrated
 
 This project demonstrates practical understanding of:
 
@@ -1579,7 +1580,7 @@ Final Prediction
 
 ---
 
-# 📌 Key Takeaways
+## 📌 Key Takeaways
 
 This project demonstrates an end-to-end approach to solving a real-world regression problem.
 
@@ -1632,7 +1633,7 @@ The project demonstrates the complete process of taking a structured dataset fro
 
 ---
 
-# Author
+# 33. Author
 
 ** Name: Misgina Gebregergs **
 
