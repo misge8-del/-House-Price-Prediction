@@ -42,14 +42,14 @@ The project covers the complete machine learning workflow:
 * [21. Final Model Training](#21-final-model-training)
 * [22. Test Prediction](#22-test-prediction)
 * [23. Kaggle Submission](#23-kaggle-submission)
-* [Results](#-results)
-* [Key Findings](#-key-findings)
+* [24. Results](#24-results)
+* [25. Key Findings](#25-key-findings)
 * [26. Project Structure](#26-project-structure)
 * [27. How to Run](#27-how-to-run)
 * [28. Requirements](#28-requirements)
 * [29. Limitations](#29-limitations)
 * [30. Future Improvements](#30-future-improvements)
-* [Conclusion](#-conclusion)
+* [32. Conclusion](#32-conclusion)
 * [Author](#-Author)
 
 ---
@@ -1208,7 +1208,7 @@ and is ready for submission to the Kaggle competition.
 
 ---
 
-# 📈 24. Results
+# 24. Results
 
 The tuned XGBoost model achieved the following validation performance:
 
@@ -1246,7 +1246,7 @@ reflects the model's prediction error while giving greater weight to larger erro
 
 ---
 
-# 🔑 25. Key Findings
+# 25. Key Findings
 
 Several important observations were obtained throughout the project.
 
@@ -1304,7 +1304,7 @@ GridSearchCV provides a systematic approach for searching for a stronger XGBoost
 
 ---
 
-# 📁 26. Project Structure
+# 26. Project Structure
 
 A professional repository can be organized as follows:
 
@@ -1355,7 +1355,7 @@ house-price-prediction/
 
 ---
 
-# ▶️ 27. How to Run
+# 27. How to Run
 
 ## 1. Clone the Repository
 
@@ -1407,7 +1407,7 @@ and execute the notebook cells sequentially.
 
 ---
 
-# 📦 28. Requirements
+# 28. Requirements
 
 The project requires the following main Python packages:
 
@@ -1437,7 +1437,7 @@ joblib
 
 ---
 
-# ⚠️ 29. Limitations
+#  29. Limitations
 
 Although the model achieves strong validation performance, several limitations should be considered.
 
@@ -1459,7 +1459,7 @@ The quality of predictions depends on the availability and quality of the proper
 
 ---
 
-# 🔮 30. Future Improvements
+# 30. Future Improvements
 
 Potential improvements include:
 
@@ -1513,7 +1513,7 @@ A production version could monitor:
 
 ---
 
-# 🧪 Reproducibility
+# 31. Reproducibility
 
 The project uses a fixed random state:
 
@@ -1598,7 +1598,7 @@ The most important lessons include:
 
 ---
 
-# 🏆 Conclusion
+# 32. Conclusion
 
 This project developed a complete machine learning pipeline for predicting residential house sale prices using the Ames Housing dataset.
 
@@ -1632,7 +1632,7 @@ The project demonstrates the complete process of taking a structured dataset fro
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 ** Name: Misgina Gebregergs **
 
