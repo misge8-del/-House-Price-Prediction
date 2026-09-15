@@ -48,8 +48,8 @@ The project covers the complete machine learning workflow:
 * [27. How to Run](#27-how-to-run)
 * [28. Limitations](#28-limitations)
 * [29. Future Improvements](#29-future-improvements)
-* [30. Conclusion](#30-conclusion)
-* [31. Conclusion](#31-Author)
+* [Conclusion](#-conclusion)
+* [Author](#-Author)
 
 ---
 
